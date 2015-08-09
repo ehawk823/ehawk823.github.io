@@ -26,7 +26,7 @@ Despite receiving mixed reviews, according to security expert Kevin Mahaffey, th
 
 The film follows Nick Hathaway, a convicted hacker, who is released from prison to help track down a team of cyber criminals. While director Michael Mann certainly took a few creative liberties for dramatic purposes, he consulted with Kevin Poulsen (cyber security journalist and former hacker) and other experts to ensure that the film maintained its credibility.
 
-![Hackerman]({{ ehawk823.github.io }}/assets/blackhat.jpg)
+![Blackhat]({{ ehawk823.github.io }}/assets/blackhat.jpeg)
 
 Even more recently, the show Mr. Robot (which I have seen) debuted on USA. Mr Robot follows a vigilante hacker, Elliot, as he works to bring down a corrupt corporation. Besides providing consistent entertainment value, the show has been praised by for its accurate portrayal of hacking.
 
