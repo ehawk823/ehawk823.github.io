@@ -11,7 +11,7 @@ Exaggerated or entirely unrealistic depictions of hacking are rampant throughout
 
 This point doesn't really require any evidence, but I've included a few examples below for entertainment value -
 
-![Hackerman]({{ ehawk823.github.io }}/assets/hackerman.gif)
+![Hackerman]({{ ehawk823.github.io }}/assets/80s_hacking.mp4)
 
 Pretty bad right? The good news is that depictions of hacking are gradually becoming more realistic as cyber security moves into the mainstream with recent high-profile breaches, the typical filmgoer becomes less tolerant of the sort of cheesy hacking sequences that predominated throughout the 80's and 90's.
 
