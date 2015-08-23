@@ -5,7 +5,7 @@ date:   2015-08-08 12:22:13
 categories: jekyll update
 ---
 
-Towards (okay) the end of last week, we talked a bit about unrealistic depictions of hacking in the media - mentioning Wargames, the Matrix and others.
+Towards the end of last week, we talked a bit about unrealistic depictions of hacking in the media - mentioning Wargames, the Matrix and others.
 
 Exaggerated or entirely unrealistic depictions of hacking are rampant throughout television and film.
 
