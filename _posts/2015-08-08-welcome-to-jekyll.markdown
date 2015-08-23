@@ -5,9 +5,9 @@ date:   2015-08-23 12:22:13
 categories: jekyll update
 ---
 
-There are numerous ideas around the time required to master different skills. Through his 2008 book Outliers, Malcolm Gladwell popularized the idea that a person requires 10,000 hours to master a given skill. Although his assertions have been called into question since Outliers became an international best seller, the idea of being able to approximate the hourly requirement to learn a given skill set is a compelling one.
+There are numerous ideas around the time required to master different skills. Through his 2008 book Outliers, Malcolm Gladwell popularized the idea that a person requires 10,000 hours to master a given skill. Although his assertions have been called into question since Outliers became a best seller, the idea of being able to approximate the hourly requirement to learn a given skill set is a compelling one.
 
-I decided to look into this a bit more as it relates to programming languages. While I'm currently committed to learning Ruby, it isn't inconceivable that I might need to understand or become proficient in another langauge at some point in my career, so I thought this would be a good topic to look into.
+I decided to look into this a bit more as it relates to programming languages. While I'm currently committed to learning Ruby, it isn't inconceivable that I might need to understand or become proficient in another language at some point in my career, so I thought this would be a good topic to look into.
 
 I noticed that there were a number of studies conducted for spoken languages (see below) -
 
@@ -23,7 +23,7 @@ Combining this resource with information I was able to find on blogs, reddit and
 
 I also looked into what programming languages are most similar, on the basis that learning languages comparable to ruby should be an easier undertaking than trying to take on ones that are completely different.
 
-There were a number of interesting articles describing the similarities between languages, but the below was probably the most interesting in how it visualized all the relevant data.
+There were a number of interesting articles describing the similarities between languages, but the below was probably the most interesting because of how it visualized all the relevant data.
 
 https://www.reddit.com/r/dataisbeautiful/comments/26os6j/programming_language_similarity_based_on/
 
