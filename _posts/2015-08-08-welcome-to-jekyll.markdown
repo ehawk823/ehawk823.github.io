@@ -1,35 +1,30 @@
 ---
 layout: post
-title:  "The Evolution of Hacking in the Media"
-date:   2015-08-08 12:22:13
+title:  "A Matter of Time: Learning Programming Languages"
+date:   2015-08-23 12:22:13
 categories: jekyll update
 ---
 
-Towards the end of last week, we talked a bit about unrealistic depictions of hacking in the media - mentioning Wargames, the Matrix and others.
+There are numerous ideas around the time required to master different skills. Through his 2008 book Outliers, Malcolm Gladwell popularized the idea that a person requires 10,000 hours to master a given skill. Although his assertions have been called into question since Outliers became an international best seller, the idea of being able to approximate the hourly requirement to learn a given skill set is a compelling one.
 
-Exaggerated or entirely unrealistic depictions of hacking are rampant throughout television and film.
+I decided to look into this a bit more as it relates to programming languages. While I'm currently committed to learning Ruby, it isn't inconceivable that I might need to understand or become proficient in another langauge at some point in my career, so I thought this would be a good topic to look into.
 
-This point doesn't really require any evidence, but I've included a few examples below for entertainment value -
+I noticed that there were a number of studies conducted for spoken languages (see below) -
 
-![Hackerman]({{ ehawk823.github.io }}/assets/hackerman.gif)
+http://www.effectivelanguagelearning.com/language-guide/language-difficulty
 
-![Samuel]({{ ehawk823.github.io }}/assets/jurassic_park.gif)
+However, it was very difficult to find anything comparable for programming languages - aside from an abundance of too-good-to-be-true promotional pamphlets promising a mastery of C++ in under a week as well as a range of conflicting opinions on Quora, Yahoo Anwers, etc.
 
-![Sneakers]({{ ehawk823.github.io }}/assets/sneakers.gif)
+The best resource I found was a 2013 study from researchers at Berkley and Princeton focusing on the adoption of various languages, for which learning accessibility is an important criteria.
 
+http://sns.cs.princeton.edu/docs/asr-oopsla13.pdf
 
-Pretty bad right? The good news is that depictions of hacking are gradually becoming more realistic as cyber security moves into the mainstream, especially in light of recent high-profile breaches - Target, Sony, etc. The typical filmgoer has become less tolerant of the sort of cheesy hacking sequences that predominated throughout the 80's and 90's.
+Combining this resource with information I was able to find on blogs, reddit and elsewhere, it seems pretty evident that C and C++ are some of the most difficult languages to master, while languages such a ruby, python and javascript are considerably more approachable.
 
-Just in the past year, we've seen some of the most authentic depictions of hacking reach mainstream media.
+I also looked into what programming languages are most similar, on the basis that learning languages comparable to ruby should be an easier undertaking than trying to take on ones that are completely different.
 
-Despite receiving mixed reviews, according to security expert Kevin Mahaffey, the recent blockbuster Blackhat (which I haven't seen), supposedly offers one of the most realistic depictions of hacking to ever grace the silver screen.
+There were a number of interesting articles describing the similarities between languages, but the below was probably the most interesting in how it visualized all the relevant data.
 
-The film follows Nick Hathaway, a convicted hacker, who is released from prison to help track down a team of cyber criminals. While director Michael Mann certainly took a few creative liberties for dramatic purposes, he consulted with Kevin Poulsen (cyber security journalist and former hacker) and other experts to ensure that the film maintained its credibility.
+https://www.reddit.com/r/dataisbeautiful/comments/26os6j/programming_language_similarity_based_on/
 
-![Blackhat]({{ ehawk823.github.io }}/assets/blackhat.jpeg)
-
-Even more recently, the show Mr. Robot (which I have seen) debuted on USA. Mr Robot follows a vigilante hacker, Elliot, as he works to bring down a corrupt corporation. Besides providing consistent entertainment value, the show has been praised by for its accurate portrayal of hacking.
-
-Series creater Sam Esmail hired a team of security engineers to consult. As a result, all code that appears on computer screens is legitimate as well as the processes that the protagonist uses to infiltrate various systems. Most of the hacks depicted in the show are based of real-life instances that Esmail's team researched heading into production.
-
-![Robot]({{ ehawk823.github.io }}/assets/robot.jpg)
+The good news is that even though ruby may have little in common with a language like C++ and may be relatively easier, as up and coming Rubyists we're still in a much better position to learn a second programming language than a complete beginner - regardless of its structural similarity or relative difficulty. 
