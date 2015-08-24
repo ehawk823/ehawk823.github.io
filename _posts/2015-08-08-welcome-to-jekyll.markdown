@@ -11,13 +11,13 @@ I decided to look into this a bit more as it relates to programming languages. W
 
 I noticed that there were a number of studies conducted for spoken languages (see below) -
 
-http://www.effectivelanguagelearning.com/language-guide/language-difficulty
+[Spoken Language Study](http://www.effectivelanguagelearning.com/language-guide/language-difficulty)
 
 However, it was very difficult to find anything comparable for programming languages - aside from an abundance of too-good-to-be-true promotional pamphlets promising a mastery of C++ in under a week as well as a range of conflicting opinions on Quora, Yahoo Anwers, etc.
 
 The best resource I found was a 2013 study from researchers at Berkley and Princeton focusing on the adoption of various languages, for which learning accessibility is an important criteria.
 
-[That Study](http://sns.cs.princeton.edu/docs/asr-oopsla13.pdf)
+[Language Adoption Study](http://sns.cs.princeton.edu/docs/asr-oopsla13.pdf)
 
 Combining this resource with information I was able to find on blogs, reddit and elsewhere, it seems pretty evident that C and C++ are some of the most difficult languages to master, while languages such a ruby, python and javascript are considerably more approachable.
 
@@ -25,6 +25,6 @@ I also looked into what programming languages are most similar, on the basis tha
 
 There were a number of interesting articles describing the similarities between languages, but the below was probably the most interesting because of how it visualized all the relevant data.
 
-https://www.reddit.com/r/dataisbeautiful/comments/26os6j/programming_language_similarity_based_on/
+[Language Similarities](https://www.reddit.com/r/dataisbeautiful/comments/26os6j/programming_language_similarity_based_on/)
 
 The good news is that even though ruby may have little in common with a language like C++ and may be relatively easier, as up and coming Rubyists we're still in a much better position to learn a second programming language than a complete beginner - regardless of its structural similarity or relative difficulty.
