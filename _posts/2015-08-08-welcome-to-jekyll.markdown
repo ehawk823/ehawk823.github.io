@@ -25,6 +25,6 @@ I also looked into what programming languages are most similar, on the basis tha
 
 There were a number of interesting articles describing the similarities between languages, but the below was probably the most interesting because of how it visualized all the relevant data.
 
-[Language Similarities](https://www.reddit.com/r/dataisbeautiful/comments/26os6j/programming_language_similarity_based_on/)
+[Language Similarities](http://i.imgur.com/0yRPQbI.png)
 
 The good news is that even though ruby may have little in common with a language like C++ and may be relatively easier, as up and coming Rubyists we're still in a much better position to learn a second programming language than a complete beginner - regardless of its structural similarity or relative difficulty.
