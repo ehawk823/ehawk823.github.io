@@ -17,7 +17,7 @@ However, it was very difficult to find anything comparable for programming langu
 
 The best resource I found was a 2013 study from researchers at Berkley and Princeton focusing on the adoption of various languages, for which learning accessibility is an important criteria.
 
-[link]: [http://sns.cs.princeton.edu/docs/asr-oopsla13.pdf]
+[link]: http://sns.cs.princeton.edu/docs/asr-oopsla13.pdf [link]
 
 Combining this resource with information I was able to find on blogs, reddit and elsewhere, it seems pretty evident that C and C++ are some of the most difficult languages to master, while languages such a ruby, python and javascript are considerably more approachable.
 
