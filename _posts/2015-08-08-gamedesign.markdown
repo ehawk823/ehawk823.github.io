@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Parallels in Site and Game Programming"
+title:  "Parallels in Web and Game Programming"
 date:   2015-09-05 12:22:13
 categories: jekyll updated
 ---
