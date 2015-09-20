@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Containers"
+title:  "Containerize-nation"
 date:   2015-09-20 12:22:13
 categories: jekyll updated
 ---
 
-Last week, we briefly touched on the idea of containers during our lecture on Heroku deployment. At my old employer, I'd worked with a company in the containerization space, but I hadn't fully grasped what that meant. I decided to tackle this topic in a blog post to hopefully deepen my understanding of this seemingly complex topic.
+Last week, we briefly touched on the idea of containers during our lecture on Heroku deployment. At my previous employer, I'd worked with a company in the containerization space, but I hadn't fully grasped what that meant. I decided to tackle this topic in a blog post to hopefully deepen my understanding of this seemingly complex subject..
 
 ![Container]({{ ehawk823.github.io }}/assets/container.gif)
 
-Before diving into containerization, it might be helpful to briefly touch on virtualization. Virtualization refers to the act of creating a virtual operating environment within an all together different OS. A computer running Windows might for instance host a virtual machine that looks like the Ubuntu Linux OS. In a typical infrastructure architecture (think AWS or VMWare) you might distribute your software and have it run on virtual machines tied to physical servers. These VM's can be very wasteful from a storage and badwidth standpoint as each VM runs a full copy of the required OS.
+Before diving into containerization, it might be helpful to briefly touch on virtualization. Virtualization refers to the act of creating a virtual operating environment within an existing OS. A computer running Windows might for instance host a virtual machine that looks like the Ubuntu Linux OS. In a typical infrastructure architecture (think AWS or VMWare) you might distribute your software and have it run on virtual machines tied to physical servers. These VM's can be very wasteful from a storage and bandwidth standpoint as each VM runs a full copy of the required OS.
 
 ![Docker]({{ ehawk823.github.io }}/assets/Docker.png)
 
