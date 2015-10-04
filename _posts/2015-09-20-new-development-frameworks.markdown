@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Development Frameworks"
+title:  "New Development Mediums"
 date:   2015-10-02 12:22:13
 categories: jekyll updated
 ---
