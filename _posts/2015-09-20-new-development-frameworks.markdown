@@ -5,7 +5,7 @@ date:   2015-10-02 12:22:13
 categories: jekyll updated
 ---
 
-For this post, I decided to look at some of the development principles that differ depending on platform and context. Specifically, I'll look at development for mobile devices and VR.
+For this post, I decided to look at some of the development and design principles that differ depending on platform and context. Specifically, I'll look at development for mobile devices and VR.
 
 Rather than the obvious distinctions of preferred programming languages and development frameworks for each medium, I decided to focus more on the experiential differences between each platform that a developer must be cognizant of when building their app.
 
