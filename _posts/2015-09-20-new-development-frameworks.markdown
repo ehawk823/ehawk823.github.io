@@ -15,7 +15,7 @@ As web developers, we can build apps that function on mobile devices, but their 
 
 ![Mobile]({{ ehawk823.github.io }}/assets/mobile.png)
 
-Whether you decide to develop a native, web or hybrid mobile app, the user considerations are mostly the same. Perhaps most obviously, factoring in the screen proportions is essential. Your user won't be viewing the content on a screen as large as your laptop or desktop so the UI and navigation should be simplified. Moreover, the user will primarily be interacting with your app using their fingers, so while the screen might be smaller, the buttons and links should be larger and user input minimized. There are also a range of conventions for mobile design to optimize user comfort, such as placing tabs at the bottom of the app (where your thumb can easily reach them). A unique consideration for native apps is that you'll have to decide what other phone features you'll want to integrate into your apps functionality - e.g. location services, camera, etc.
+Whether you decide to develop a native, web or hybrid mobile app, the user considerations are mostly the same. Perhaps most obviously, factoring in the screen proportions is essential. Your user won't be viewing the content on a screen as large as your laptop or desktop, so the UI and navigation should be simplified. Moreover, the user will primarily be interacting with your app using their fingers, so while the screen might be smaller, the buttons and links should be larger and user input minimized. There are also a range of conventions for mobile design to optimize user comfort, such as placing tabs at the bottom of the app (where your thumb can easily reach them). A unique consideration for native apps is that you'll have to decide what other phone features you'll want to integrate into your apps functionality - e.g. location services, camera, etc.
 
 VR -
 
@@ -25,7 +25,7 @@ Once simulator sickness has been accounted for we can begin thinking about how m
 
 ![Oculus]({{ ehawk823.github.io }}/assets/Oculus.png)
 
-It's interesting to consider what the major websites of today might look like manifested in a 3D environment. Displaying lots text in VR is currently difficult due to resolution limitations, although those barriers should be overcome within the next few years. How will the major websites of today, represent their content in a 3D environment. For instance, would a user's Facebook page one-day be replaced by their own fully customizable 3D space or will sites find a way to migrate their functionality to a virtual UI.
+It's interesting to consider what the major websites of today might look like manifested in a 3D environment. Displaying lots of text in VR is currently difficult due to resolution limitations, although those barriers should be overcome within the next few years. How will the major websites of today, represent their content in a 3D environment. For instance, would a user's Facebook page one-day be replaced by their own fully customizable 3D space or will sites find a way to migrate their functionality to a virtual UI.
 
 ![UI]({{ ehawk823.github.io }}/assets/UI.jpg)
 
