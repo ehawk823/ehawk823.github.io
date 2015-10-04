@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Development Mediums"
+title:  "Developing for Different Mediums"
 date:   2015-10-02 12:22:13
 categories: jekyll updated
 ---
