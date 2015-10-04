@@ -19,22 +19,22 @@ Whether you decide to develop a native, web or hybrid mobile app, the user consi
 
 VR -
 
-Admittedly this is a new development paradigm, so design best practices are still coming together. That said a recurring theme in VR development is the emphasis on building apps that avoid the prospect of simulator sickness, which is defined on the Oculus website as "a combination of symptoms clustered around eyestrain, disorientation, and nausea". Rendering must mimic real head movement, minimize latency, avoid sudden speed changes, and keep objects a comfortable distance from your user.
+Admittedly this is a new development paradigm, so design best practices are still coming together. That said a recurring theme in VR development is the emphasis on building apps that avoid the prospect of simulator sickness, which is defined on the Oculus website as "a combination of symptoms clustered around eyestrain, disorientation, and nausea". To combat this issue, developers should build apps that mimic real head movement, minimize latency, avoid sudden speed changes, and keep objects a comfortable distance from the user.
 
-Once simulator sickness has been accounted for we can begin thinking about how more traditional UI's, similar to those built in web and mobile apps, should function in a VR environment. I've included some recommendations from the Oculus website that details the best practices for these types of interfaces -
+Once simulator sickness has been accounted for we can begin thinking about how more traditional UI's, similar to those built for web and mobile apps, should function in a VR environment. I've included some recommendations from the Oculus website detailing the best practices for these types of interfaces -
 
 ![Oculus]({{ ehawk823.github.io }}/assets/Oculus.png)
 
-It's interesting to think what the major websites of today might look like manifested in a 3D environment. Displaying lots text in VR is currently difficult due to resolution limitations, although those barriers should be overcome within the next few years. How will the major websites of today, represent their content in a 3D environment. For instance, would a user's Facebook page one-day be replaced by their own fully customizable 3D space or will sites find a way to migrate their functionality to a virtual UI.
+It's interesting to consider what the major websites of today might look like manifested in a 3D environment. Displaying lots text in VR is currently difficult due to resolution limitations, although those barriers should be overcome within the next few years. How will the major websites of today, represent their content in a 3D environment. For instance, would a user's Facebook page one-day be replaced by their own fully customizable 3D space or will sites find a way to migrate their functionality to a virtual UI.
 
 ![UI]({{ ehawk823.github.io }}/assets/UI.jpg)
 
-Developers have already begun experimenting with both methods and combining elements from both. For example, the team at Sprawly is attempting to build VR's first search engine, integrating a 3D grove and 2D UI elements that respond to your gaze -
+Developers have already begun experimenting with both methods and combining elements from each. For example, the team at Sprawly is attempting to build VR's first search engine, integrating a 3D grove and 2D UI elements that respond to your gaze -
 
 [Sprawly](http://www.sprawly.co/)
 
-Augmented reality might be a more attractive alternative for text-heavy sites, while VR will primarily serve as an entertainment vehicle in the short term. In Microsoft's Hololens demo, we see a user interacting with 2D frames that allow a similar UI to those that more traditional apps provide.
+Augmented reality might be a more attractive alternative for text-heavy sites. In Microsoft's Hololens demos, we see a user interacting with 2D frames that allow a similar UI to those that more traditional apps provide.
 
 ![Hololens]({{ ehawk823.github.io }}/assets/Hololens.jpg)
 
-In any case, I'm excited to see how these mediums converge and how the most prominent websites and apps translate their user experience to these newer mediums.
+In any case, I'm excited to see how all of the platforms discussed above converge and how the most prominent websites and apps translate their user experience to newer mediums.
