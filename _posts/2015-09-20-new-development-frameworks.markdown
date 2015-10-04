@@ -1,26 +1,40 @@
 ---
 layout: post
 title:  "New Development Frameworks"
-date:   2015-09-20 12:22:13
+date:   2015-10-02 12:22:13
 categories: jekyll updated
 ---
 
-Last week, we briefly touched on the idea of containers during our lecture on Heroku deployment. At my previous employer, I'd worked with a company in the containerization space, but I hadn't fully grasped what that meant. I decided to tackle this topic in a blog post to hopefully deepen my understanding of this seemingly complex subject..
+For this post, I decided to look at some of the development principles that differ depending on platform and context. Specifically, I'll look at development for mobile devices and VR.
 
-![Container]({{ ehawk823.github.io }}/assets/container.gif)
+Rather than the obvious distinctions of preferred programming languages and development frameworks for each medium, I decided to focus more on the experiential differences between each platform that a developer must be cognizant of when building their app.
 
-Before diving into containerization, it might be helpful to briefly touch on virtualization. Virtualization refers to the act of creating a virtual operating environment within an existing OS. A computer running Windows might for instance host a virtual machine that looks like the Ubuntu Linux OS. In a typical infrastructure architecture (think AWS or VMWare) you might distribute your software and have it run on virtual machines tied to physical servers. These VM's can be very wasteful from a storage and bandwidth standpoint as each VM runs a full copy of the required OS.
+First mobile -
 
-![Docker]({{ ehawk823.github.io }}/assets/Docker.png)
+As web developers, we can build apps that function on mobile devices, but their responsiveness and functionality will be severely limited compared to a native mobile app. That said, developing web-based apps that function on mobile devices circumvents the frustrations of the app store approval process and arduous task of developing for multiple platforms.
 
-And now to introduce containers! Rather than packaging each individual application with it's own OS, containers allow applications to be deployed in a far leaner manner, operating on a shared instance of a given operating system. This results in efficiency improvements, orders of magnitude greater than those attainable through virtual machines.
+![Mobile]({{ ehawk823.github.io }}/assets/mobile.png)
 
-![Crab]({{ ehawk823.github.io }}/assets/crab.jpg)
+Whether you decide to develop a native, web or hybrid mobile app, the user considerations are mostly the same. Perhaps most obviously, factoring in the screen proportions is essential. Your user won't be viewing the content on a screen as large as your laptop or desktop so the UI and navigation should be simplified. Moreover, the user will primarily be interacting with your app using their fingers, so while the screen might be smaller, the buttons and links should be larger and user input minimized. There are also a range of conventions for mobile design to optimize user comfort, such as placing tabs at the bottom of the app (where your thumb can easily reach them). A unique consideration for native apps is that you'll have to decide what other phone features you'll want to integrate into your apps functionality - e.g. location services, camera, etc.
 
-Large tech companies and PaaS providers (such as Heroku) have been taking advantage of containers for years, but this tech has only become widely accessible recently with the advent of Docker and other players in the container space. Docker containers wrap a piece of software with everything needed to run it - code, runtime, system tools, system libraries, etc. These containers share a kernel with other containers, rather than carrying their own guest OS as a VM would.
+VR -
 
-![Turles]({{ ehawk823.github.io }}/assets/turtles.jpg)
+Admittedly this is a new development paradigm, so design best practices are still coming together. That said a recurring theme in VR development is the emphasis on building apps that avoid the prospect of simulator sickness, which is defined on the Oculus website as "a combination of symptoms clustered around eyestrain, disorientation, and nausea". Rendering must mimic real head movement, minimize latency, avoid sudden speed changes, and keep objects a comfortable distance from your user.
 
-As long as a given endpoint is running Docker (which can operate on Linux/Windows as well as almost any infrastructure and in the cloud), developers can avoid challenges associated with conflicting environments or time spent adapting environments to align with the specifications for a particular app. Another benefit of this efficiency is that teams can more easily collaborate on a given app and engineers at different stages in the product lifecycle (e.g. downstream service teams) don't need to worry about environmental issues creating unnecessary complications.
+Once simulator sickness has been accounted for we can begin thinking about how more traditional UI's, similar to those built in web and mobile apps, should function in a VR environment. I've included some recommendations from the Oculus website that details the best practices for these types of interfaces -
 
-![Whales]({{ ehawk823.github.io }}/assets/docker-whales.jpg)
+![Oculus]({{ ehawk823.github.io }}/assets/Oculus.png)
+
+It's interesting to think what the major websites of today might look like manifested in a 3D environment. Displaying lots text in VR is currently difficult due to resolution limitations, although those barriers should be overcome within the next few years. How will the major websites of today, represent their content in a 3D environment. For instance, would a user's Facebook page one-day be replaced by their own fully customizable 3D space or will sites find a way to migrate their functionality to a virtual UI.
+
+![UI]({{ ehawk823.github.io }}/assets/UI.jpg)
+
+Developers have already begun experimenting with both methods and combining elements from both. For example, the team at Sprawly is attempting to build VR's first search engine, integrating a 3D grove and 2D UI elements that respond to your gaze -
+
+[Sprawly](http://www.sprawly.co/)
+
+Augmented reality might be a more attractive alternative for text-heavy sites, while VR will primarily serve as an entertainment vehicle in the short term. In Microsoft's Hololens demo, we see a user interacting with 2D frames that allow a similar UI to those that more traditional apps provide.
+
+![Hololens]({{ ehawk823.github.io }}/assets/Hololens.jpg)
+
+In any case, I'm excited to see how these mediums converge and how the most prominent websites and apps translate their user experience to these newer mediums.
