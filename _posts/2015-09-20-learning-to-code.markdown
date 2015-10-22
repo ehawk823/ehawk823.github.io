@@ -9,7 +9,7 @@ Last week, I graduated from the Flatiron School, an immersive web development pr
 
 The reasons for this influx are varied. Most notably, as tech moves further into the mainstream and word spreads of the generous salaries and comfortable lifestyle that technical skills can command, more and more people are eager to acquire the skills necessary for developer roles. Moreover, in recent years, the government has set in motion a range of initiatives offering grants and subsidies to organizations teaching students how to code. Just last March, the Obama administration made $100 million in grants available as part of their new TechHire initiative.
 
-These factors have created a climate where the aspiring coder has a seemingly infinite variety of potential teachers. This spectrum can make the choice of selecting a course a daunting task. For this blog post, I'll specifically look at consideration for coding bootcamps, since to date this has been the part of the market with which I've had the most experience. I'm going to be increasingly dependent on online resources to learn subsequent languages moving forward, so perhaps I'll save those for another blog post.
+These factors have created a climate where the aspiring coder has a seemingly infinite variety of potential teachers. This spectrum can make the choice of selecting a course a daunting task. For this blog post, I'll specifically look at considerations for coding bootcamps, since to date this has been the part of the market with which I've had the most experience. I'm going to be increasingly dependent on online resources to learn subsequent languages moving forward, so perhaps I'll save those for another blog post.
 
 ![Programmers]({{ ehawk823.github.io }}/assets/laptops.jpg)
 
@@ -27,7 +27,7 @@ Finally the question of which programming language to learn is a difficult one. 
 
 ![Languages]({{ ehawk823.github.io }}/assets/bootcamps.jpg)
 
-The following site offers an even more detailed breakdown of many of the bootcamps options that are available -
+The following site offers an even more detailed breakdown of many of the bootcamps that are available across the US -
 
 [Coding Bootcamps Compared](http://www.skilledup.com/articles/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list)
 
