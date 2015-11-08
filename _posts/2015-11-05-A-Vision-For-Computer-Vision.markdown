@@ -19,7 +19,7 @@ Computers have made significant strides in not only detecting objects and moveme
 
 [Fei Fei Li (Stanford)](https://www.youtube.com/watch?v=40riCqvRoMs)
 
-Hopefully these resources will give you a clearer picture of how computer vision functions. Now to consider the opportunities...
+Hopefully these resources will give you a clearer picture of how computer vision functions.
 
 Computer vision tech has already found numerous practical applications. Satellites and air born military equipment have relied on computer vision to discern meaningful patterns (persons, objects, etc.) amidst large expanses of land. Security footage uses computer vision to detect threats or specific kinds of movement. Consider the smart car which relies on computer vision to effectively navigate and detect obstacles.
 
