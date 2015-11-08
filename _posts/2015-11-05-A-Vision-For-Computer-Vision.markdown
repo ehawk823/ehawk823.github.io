@@ -30,5 +30,3 @@ Computer vision has had and will continue to have broad implications for a multi
 ![Facial Recognition]({{ ehawk823.github.io }}/assets/facial.jpg)
 
 Again these examples provide just a small glimpse of the technologies' potential. Soon computers will grow even more intelligent and be able to discern complex emotions and previously unrecognizable subtleties within a given scene. Until that time, we'll just have to sit back and watch.
-
-![Eye]({{ ehawk823.github.io }}/assets/eye.jpg)
