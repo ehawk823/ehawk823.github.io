@@ -7,7 +7,7 @@ categories: jekyll updated
 
 For humans, vision is perhaps the most fundamental sense for interpreting and navigating the physical world. However for a long time, despite the capacity of computers to process and derive patterns from seemingly infinite data, our machines had lacked the ability to derive meaningful insights from visual inputs. This has been changing rapidly in recent years, and many of the applications for 'computer vision' have begun to make their way into the mainstream.
 
-You may remember the Google Deep Dream meme from a few month back. The tool allowed you to run video or imagery through Google's image recognition algorithm, leading to an incredibly surreal result -
+You may remember the Google Deep Dream meme from a few month back. The tool allowed you to run video or imagery through Google's image recognition algorithm, leading to an incredibly surreal output -
 
 ![Google Deep Dream]({{ ehawk823.github.io }}/assets/vegas.gif)
 
@@ -21,13 +21,11 @@ Computers have made significant strides in not only detecting objects and moveme
 
 Hopefully these resources will give you a clearer picture of how computer vision functions. Now to consider the implications...
 
-Contemporary society has already witnessed computer vision tech effectively implemented in numerous cases. Satellites and air born military equipment for years have relied on computer vision to discern meaningful patterns (persons, objects, etc.) amidst large expanses of land.
-
-More recently we've seen computer vision implemented effectively in the commercial sector as well. Security footage and sophisticated machines utilize computer vision to differentiate between objects. In the case of security footage, the computer can detect threats or specific kinds of movement. As far as consumer-centric machines, consider the smart car which relies on computer vision to effectively navigate and detect obstacles.
+Computer vision tech has already been effectively utilized in numerous case studies. Satellites and air born military equipment have relied on computer vision to discern meaningful patterns (persons, objects, etc.) amidst large expanses of land. Security footage uses computer vision to detect threats or specific kinds of movement. Consider the smart car which relies on computer vision to effectively navigate and detect obstacles.
 
 ![Tesla]({{ ehawk823.github.io }}/assets/tesla.gif)
 
-These are just a few examples. Computer vision has broad implications for a multitude of industries. Doctors can make more effective x-ray diagnoses with the help of computer vision. Advertisers can sift through vast quantities of streaming video to find the right candidates for their messaging. Facial image recognition can fight crime, take attendance, and much more.
+Computer vision has broad implications for a multitude of industries. Doctors can make more effective x-ray diagnoses with the help of computer vision. Advertisers can sift through vast quantities of streaming video to find the right candidates for their messaging. Facial image recognition can fight crime, take attendance, and much more.
 
 ![Facial Recognition]({{ ehawk823.github.io }}/assets/facial.jpg)
 
