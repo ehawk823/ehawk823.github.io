@@ -19,16 +19,16 @@ Computers have made significant strides in not only detecting objects and moveme
 
 [Fei Fei Li (Stanford)](https://www.youtube.com/watch?v=40riCqvRoMs)
 
-Hopefully these resources will give you a clearer picture of how computer vision functions. Now to consider the implications...
+Hopefully these resources will give you a clearer picture of how computer vision functions. Now to consider the opportunities...
 
-Computer vision tech has already been effectively utilized in numerous case studies. Satellites and air born military equipment have relied on computer vision to discern meaningful patterns (persons, objects, etc.) amidst large expanses of land. Security footage uses computer vision to detect threats or specific kinds of movement. Consider the smart car which relies on computer vision to effectively navigate and detect obstacles.
+Computer vision tech has already found numerous practical applications. Satellites and air born military equipment have relied on computer vision to discern meaningful patterns (persons, objects, etc.) amidst large expanses of land. Security footage uses computer vision to detect threats or specific kinds of movement. Consider the smart car which relies on computer vision to effectively navigate and detect obstacles.
 
 ![Tesla]({{ ehawk823.github.io }}/assets/tesla.gif)
 
-Computer vision has broad implications for a multitude of industries. Doctors can make more effective x-ray diagnoses with the help of computer vision. Advertisers can sift through vast quantities of streaming video to find the right candidates for their messaging. Facial image recognition can fight crime, take attendance, and much more.
+Computer vision has had and will continue to have broad implications for a multitude of industries. Doctors can make more effective x-ray diagnoses with the help of computer vision. Advertisers can sift through vast quantities of streaming video to find the right candidates for their messaging. Facial image recognition can fight crime, take attendance, and much more.
 
 ![Facial Recognition]({{ ehawk823.github.io }}/assets/facial.jpg)
 
-Again these examples provide just a small glimpse of the technologies' potential, but they're worth considering all the same. Soon computers will grow even more intelligent and be able to discern complex emotions and previously unrecognizable subtleties within a given scene. Until that time, we'll just have to sit back and watch.
+Again these examples provide just a small glimpse of the technologies' potential. Soon computers will grow even more intelligent and be able to discern complex emotions and previously unrecognizable subtleties within a given scene. Until that time, we'll just have to sit back and watch.
 
 ![Eye]({{ ehawk823.github.io }}/assets/eye.jpg)
