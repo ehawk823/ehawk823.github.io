@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Parallels in Web and Game Programming"
-date:   2015-09-05 12:22:13
+date:   2015-11-25 12:22:13
 categories: jekyll updated
 ---
 
-I decided it would be fun over the long weekend to explore some of the resources available through Treehouse. I stumbled across a game programming tutorial and would like to share some of the main takeaways from that experience.
+I decided it would be fun over the weekend to explore some of the resources available through Treehouse. I stumbled across a game programming tutorial and would like to share some of the main takeaways from that experience.
 
 Gaming has been immensely enjoyable for me over the years, but up until recently I could hardly comprehend what might be going on behind the scenes to bring the biggest blockbuster gaming titles to life.
 

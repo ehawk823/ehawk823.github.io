@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Business of Teaching Code"
-date:   2015-10-22 12:22:13
+date:   2016-08-01 12:22:13
 categories: jekyll updated
 ---
 

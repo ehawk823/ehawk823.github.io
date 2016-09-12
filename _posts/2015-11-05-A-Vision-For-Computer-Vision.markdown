@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Vision for Computer Vision"
-date:   2015-11-05 12:22:13
+date:   2016-09-07 12:22:13
 categories: jekyll updated
 ---
 

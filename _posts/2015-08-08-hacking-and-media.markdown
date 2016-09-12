@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "The Evolution of Hacking in the Media"
-date:   2015-08-08 12:22:13
+date:   2016-01-08 12:22:13
 categories: jekyll update
 ---
-
-Towards the end of last week, we talked a bit about unrealistic depictions of hacking in the media - mentioning Wargames, the Matrix and others.
 
 Exaggerated or entirely unrealistic depictions of hacking are rampant throughout television and film.
 
