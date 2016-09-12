@@ -5,7 +5,7 @@ date:   2016-04-19 12:22:13
 categories: jekyll updated
 ---
 
-Last week, we briefly touched on the idea of containers during our lecture on Heroku deployment. At my previous employer, I'd worked with a company in the containerization space, but I hadn't fully grasped what that meant. I decided to tackle this topic in a blog post to hopefully deepen my understanding of this seemingly complex subject..
+At my previous employer, I'd worked with a company in the containerization space, but I hadn't fully grasped what that meant. I decided to tackle this topic in a blog post to hopefully deepen my understanding of this seemingly complex subject..
 
 ![Container]({{ ehawk823.github.io }}/assets/container.gif)
 

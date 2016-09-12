@@ -5,7 +5,7 @@ date:   2016-08-01 12:22:13
 categories: jekyll updated
 ---
 
-Last week, I graduated from the Flatiron School, an immersive web development program in NYC. I spent 12 weeks there learning ruby, javascript, SQL, git, TDD and much more. The market for resources to learn to code has expanded dramatically over the past few years. There are a handful of similar bootcamps in NYC alone, as well as a multitude of sites offering programs to learn remotely.
+Last year, I graduated from the Flatiron School, an immersive web development program in NYC. I spent 12 weeks there learning ruby, javascript, SQL, git, TDD and much more. The market for resources to learn to code has expanded dramatically over the past few years. There are a handful of similar bootcamps in NYC alone, as well as a multitude of sites offering programs to learn remotely.
 
 The reasons for this influx are varied. Most notably, as tech moves further into the mainstream and word spreads of the generous salaries and comfortable lifestyle that technical skills can command, more and more people are eager to acquire the skills necessary for developer roles. Moreover, in recent years, the government has set in motion a range of initiatives offering grants and subsidies to organizations teaching students how to code. Just last March, the Obama administration made $100 million in grants available as part of their new TechHire initiative.
 
